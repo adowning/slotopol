@@ -1,0 +1,15 @@
+{
+  "name": "arabiannights-ts",
+  "version": "1.0.0",
+  "description": "TypeScript conversion of NetEnt Arabian Nights slot",
+  "main": "arabiannights.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "check": "tsc --noEmit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
